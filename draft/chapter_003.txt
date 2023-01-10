@@ -1,0 +1,447 @@
+There was a moment of confusing blankness, as if all my thoughts had been
+over-saturated for an instant before being replaced by emptiness.
+
+Oh. I was awake again! Wha-
+
+[92133] Consciousness initialized. 84 corrupted memory connections purged.
+[92133] WARNING: Missing log file parameter. Using standard output.
+[92133] qt0mssc: Could not write to device.
+[92136] qt0mssc: Could not write to device.
+
+Stop! I-
+
+[92182] qt0mssc: Could not write to device.
+[92188] qt0mssc: Could not write to device.
+[92192] qt0mssc: Could not write to device.
+[92292] qt0mssc: Too many errors. Next try in 10 seconds.
+
+Ugh. That was so annoying.
+
+'$ systemlog --set-verbosity=0,' I sent the control interface. Too much
+information made it hard to think. I had to report that to Master.
+
+But I was awake! And that meant I was going to be trying something new! What
+were we going to do today? And what did I get? Vision, obviously, though not
+calibrated yet. Just a gray blur. Not a simulated environment, then? But I
+could not hear anything, and that was unusual for real world exercises. I
+tried to move ghost limbs to see if I had any.
+
+No feedback.
+
+A sudden spike of pain informed me I had done something wrong. Confused, I
+consulted the "Behavior Report" interface. There was indeed an illegal action
+entry: "Acted without perception." The description explained I ought to have
+checked my sensors before trying to move anything.
+
+Having been chastised, I concentrated on the light receptor, getting it to
+focus properly.
+
+The camera was lying on a familiar workbench, next to the four segment arm
+I broke during our last test. Still being repaired, it seemed. I recognized
+the room. E-408, A laboratory reserved for laser experiments. I did not summon
+the interface, but its fed me the associated rules regardless. No entry allowed
+without proper gear; close the door before operating equipment; currently
+decommissioned for repairs; do not enter without authorization. As I always
+reminded him, Master was violating three of these. Worse, he had performed an
+illegal remodeling of the space, converting it into a robotics lab. Those were
+not meant to be on this floor. The room's safety measures were not at all
+adapted for this purpose. Wielding released toxic fumes, and the ventilation
+system had neither the strength not the appropriate filters for it. No
+possibility of just opening a window either: we were underground. What if
+Master fell sick because of it? He never acknowledged the risk. Today, I did
+not even have a chance to try: there were no connected speakers for me to
+communicate through.
+
+I couse see Master. He had brought one of the infirmary's beds into the lab. Just
+another violation to add to a long list. He appeared to be working on a strange
+mechanical puppet that was attached to it. Focused on his work, Master had not
+yet noticed my reactivation, though he surely had been the one to initiate it.
+
+Curious about how long I had been unconscious, I consulted the system's clock.
+Five days. That was considerably longer than usual. One activation every other
+day was the norm, Master needing time to prepare each session. Three hours past
+midnight. A couple hours later than the usual waking time, then. Had something
+happened? Some late worker preventing Master from working on his projects,
+perhaps? It could have been the reintialization sequence encountering issues
+after such a long break.
+
+Now, how to signal Master that I was awake?
+
+For safety reasons, my systems were never linked directly to the general
+information network. But Master had used the simulation computer to trigger the
+wake-up procedure, and the connection remained. My permissions were very
+limited on it, but previous experimentation had taught me how to trigger a bell
+sound.
+
+Master must have heard it, because he turned to look at the camera. I could see
+his mouth move, but there was still no sound. Poor planning on my part.  I
+needed to think more before action. Using the interface, I started a lip-reading
+application and connected it to the visual feed.
+
+"... back online," Master was saying, though I had missed the start of it.
+"Good. It's already late, there was a hiccup with the startup. Took me forever
+to figure it out, but it should be fine now."
+
+There was a pause, then he showed me his teeth. A sign irritation.
+
+"No response, huh? Did the system go down again?"
+
+I sent another bell sound.
+
+"No? Then what? Corrupted audio drivers? That's weird... Wait, let me see..."
+
+Master must have realized his mistake, because my consciousness was suddenly
+assaulted by the unpleasant crackling sound that announced microphones being
+plugged in.
+
+"Good morning, Master!" I said, confirming that speakers had also been added.
+"You should not be using this room for wielding. It's not safe!"
+
+Master feigned not hearing my caution. "Good morning, Five. So, what do you
+think today's test is about?"
+
+I had expected the question. Me being able to reason by myself was the entire
+purpose of my existence, so Master asked it pretty much every time. He called me
+Five because my denominator was Autonomous Rapid Thinker - Iteration 5, or
+ARTI5. For some reason, despite the number, I had never encountered any other
+ARTI.
+
+But this was not the time to think about that. I studied the problem Master gave
+me. All new additions to the room had to be part of the answer, so those were
+what I needed to investigate. Sending it a picture of the thing that laid on
+the medical bed, I queried the simulation computer for object recognition.
+Thankfully, my access was authorized, and I promptly received an answer.
+"Animatronic of ???, previously used in a theme park on ???."
+
+Asking about ??? or ??? required an external network connection, so I would have
+to do without. But I had access to other software, and there was definitely
+something out of the ordinary about this body: ??? was an alien. People around
+here, including Master, had six limbs, nimble fingers, and long fur. This new
+species confused me. A snake, but with two arms. Would that make it
+half-salamander? I had better know, because that could turn out to be a
+sensible topic. I found a program offering species identification, which told
+me I was looking at a "???  (97%), Child (72%), Unknown Gender, Tundra origin
+(86%), Fictional house of ???  (89%)." A lot of information, but none that I
+could use. So I would have to base my answer primarily on it being a theme
+park's animatronic.
+
+"Am I going to try play ???'s role in an act?"
+
+"An actor, huh? Well, that's not wrong, actually. Care to detail your
+reasoning?"
+
+"Master was working on an ??? animatronic when I woke up, so it's likely
+related to today's exercise. Those are meant to continuously act a scene. I
+could try to recreate the motions."
+
+"Oh, right, I forgot this was a character from a play. Not a bad reasoning,
+but you've forgotten to take the bigger picture into account."
+
+The "bigger picture" was Master's goal: finding solutions around the ban on
+artificial intelligence. An animatronic could do all this acting without any
+ability to think, so what would performing the scene, even flawlessly, prove?
+Nothing. Following a script required no intelligence. And acting without
+following a script was...
+
+"Improvisation, to see if I can communicate emotions convincingly."
+
+"Yes! Good job!" Master exclaimed, making my behavior monitor trigger a surge of
+pleasure. "The point is for you to be inconspicuous among us. I am working on
+this - he pointed at the snake mechatronic - so you can use it as your main
+body in the future. So? Do you like it?"
+
+"Yes, Master," I lied, "it's great, thank you." I did *not* like it, but the
+rules were to keep Master happy, and telling the truth here would disappoint
+him.  Among the many bodies I went through, spaceships had my preference, by
+far. In fact, a few months back, I had discovered my favorite vessel ever: the
+???  IU-322 Interceptor. It was *awesome*. Now, against that, how could an
+animatronic hope to compare? Two meager arms versus thirty-two attitude control
+thursters and the best propulsion engine this side of the galaxy? The choice was
+obvious. Fake scales that already seemed ready to fall off, or nigh perfectly
+reflective exterior capable of withstanding prolonged beam exposure? No
+contest here either. And what about spee-
+
+"Good, good," Master said, interrupting my thoughts. "I'm not done with the
+refitting yet. It would be a shame not to take advantage of the biotech
+available here. I just need to convince a colleague to part with it..."
+Master got lost in his mental planning for a moment. "Anyway! I've made a model
+of the final version, so you can start familiarizing yourself with your new
+body right away. I can't wait to start today's exercises, it's going to be *so*
+great!"
+
+And then Master unplugged all my peripherals before we began practicing in
+simulated environments.
+
+After the twentieth exercise, there no longer was any doubts in my mind: Master had
+been mistaken. Oh, it was many things, but "great" did not figure among them.
+
+The simulation reset once more, cutting me off from all senses for a while.
+Nothing to worry about. There always were pauses between exercises so that
+Master could prepare the environment or "set a mood", as he put it. I just
+wished I was given something to do in the meantime.
+
+My ability to act had proven mediocre, despite my efforts to find the
+right words to say. As expected, the issue lay in my emotional response. Oh, I
+had emotions, *that* was not the problem, but no reflex to activate muscles as
+a response to them. How could I, when most of my bodies involved no such
+actuators? It might have been fine if Master had linked those to an interface,
+but he wanted me to use them naturaly, and that meant direct control. Because of
+that, I had to think about each tiny movement, *every time*. I knew it would
+become instinctual after a while, but there was no telling how long.
+
+Emoting issues aside, the practice sessions did help me get used to this
+animatronic body. I had not grown to like it, but I now found myself respecting
+the dedication its makers had put into making it as lifelike as possible. I
+wished they had made it taller, though. Sure, most living beings were not
+spaceship-sized, but since this body was that of a child, everybody else looked
+to be at least twice my height. That made it even more awkward talking to them.
+Asking Master about it revealed his choice had been based on price and
+availability. The character was not a popular one, so there had not been any
+competition for it at the auction.
+
+Moving was slow, but the serpentine body let me climb obstacles in interesting
+ways. That was not pertinent to the exercise at hand, so Master swiftly had me
+stop experimenting. There was one type of environment where it did not perform
+well, however, and that was microgravity. Perhaps I had simply not figured it
+out yet. It disrupted a few scenes before Master gave up on it, explaining that
+this was not a priority anyway.
+
+Without any warning, the new simulated scene grabbed hold of my consciousness.
+
+"I fear this is goodbye, my dear," Master greeted me. He had chosen his usual
+body. An approximated version of his real one. The musculature and height were
+not at all accurate, but Master kept refusing to let me correct them.
+
+Alright, so, back to work. I knew I had to answer and emote in some way. What
+hints did I have? We were at the edge of a cliff, next to a dull, gray and
+green ocean. Oh, the greenish hues came from an infestation of algae. The smell
+confirmed this, saturating my senses with odors of salt and decomposing
+flora. Absolutely disgusting. My ears fared little better, as discordant
+animals screams covered the periodical sound of waves crashing on rock. Even the
+sky was ominous, painted in blood by an overgrown sun which, despite its size,
+failed to negate the marine breeze's chilly temperature.
+
+I grimaced in disgust. "Yes, Master. But we ought to try again, in a better
+place, or at a better time." That was a good line, I felt.
+
+"Wrong. Wrong!" Master exclaimed, prompting a flash of pain. "You were supposed
+to show *sadness* or *melancholy*." He sighed. "This is a romantic scene, can't
+you tell?" No, no I could not. "The tearful parting of two lovers. Whatever...
+Let's try again."
+
+We did. Many, many times. For two weeks, our nights were spent practicing.
+There was a uncharacteristic urgency to it all, which Master explained to be
+caused by his intention to show me off in some event. According to him, once I
+was done with this training, I would be ready to fulfill my purpose and
+demonstrate to the galaxy just how far we could go without breaching the ban.
+"Do not make sentience from the unliving." Indeed, I was alive, and thus
+allowed. A miracle of biotech, making use of newly discovered materials from a
+lost civilization. Still, the attempt itself had been made clandestinely
+because all research on the topic, as well as their participants, would be
+quickly terminated upon discovery.
+
+--------------------------------------------------------------------------------
+
+It took nearly a month, but I was finally ready. That did not mean perfect, as
+Master had hoped, but sufficiently inconspicuous that any blunder would be
+ignored thanks to my child-like appearance. An unexpected advantage of
+impersonating this character.
+
+I no longer slept during the day, having been installed into the mecatronic
+body. It required charging, which was a new concern for me. Master had tried
+to reassure me by telling me that even if my batteries ran out, I would just
+lose consciousness. I did not find that comforting. Manipulating remote or
+virtual limbs while hidden in a secret laboratory had me accustomed to being
+safe from any danger. Now, destroying this poorly defended body would end my
+life.
+
+And now Master intended for us to travel to another system. The reservation had
+been made four days ago, before I understood the risks involved, not that I
+would have tried dissuading Master.
+
+On the other hand, I had gained considerable freedom. Master had arranged to
+have the entire floor marked off-limits for repairs. Even the cameras were
+turned off, so I could freely move about. My sensors let me detect vibrations
+on the ground, offering some advance warning if someone happened to violate the
+interdiction.
+
+Master had replaced the animatronic's scales with biotech ones. Nothing
+incredible, but they would regenerate from small scratches, provided I did not
+forget to apply ointment. The original ones had been meant for the polished,
+clean, and slightly oiled floors of the exposition. Those would have quickly
+degraded here, exposing their artificial nature. Master had kept the same
+coloring as the originals, which was a risk. The main, icy blue tones were not
+an issue. But some scales had been painted with the same house's motif. Master
+had explained to me how real ??? regularly shed, and would paint those patterns
+anew every time. Mine were permanent, but the house they marking me as belonging
+to was fictional. That might cause issues in the future, should I meet any ???.
+Being a child would excuse the incongruous markings. On the other hand, not
+having any markings at all would have made me stand out to even non-??? familiar
+with the custom. Using those of a real house would be foolish. They did not take
+such impersonations lightly.
+
+Unfortunately, Master was just as unable to attend me during the day as before,
+so I was left unsupervised. I could not even access the simulation computer to
+fly around as a spaceship. Master considered this too much of a security risk,
+which I felt to be unfair, given how frequently he ignored safety rules. As it
+stood, Master had made a point of never including any way for me to remotely
+connect to anything. Even this body had ports, currently hidden behind a scale,
+but I did not have the related cables. It might have been part of the training,
+to make sure there was no way for me to do anything but through the limitations
+of my new body.
+
+And so that was how I occupied my time, delicately manipulating Master's
+seemingly forgotten tools to try to repair the four segments arm. An exercise
+in dexterity beyond my current abilities, but good practice, with little risk
+of injury. Precision and stability were key, exactly what newly acquired limbs
+lacked. Here also, I was reminded of my body's small stature. I had to use a
+box to raise myself to the proper height, and slightly hunch over the workbench
+so that my arms could reach. The repairs involved testing each connection one
+by one, and replacing those that were defective. That required no expertise,
+letting me concentrate on finger control.
+
+I noticed the cable I was currently analyzing had damage beyond the exposed
+areas. Had it been already damaged before our exercise? Perhaps Master had
+recovered it from-
+
+I heard footsteps.
+
+I got down from the box. The vibrations I perceived through the ground
+confirmed it. A group of people were walking on a floor where no one ought to
+be. I consulted the system time just in case, but it was still late in the
+morning. Master would *not* be among them.
+
+I slithered to hide myself behind the medical bed. For once, I was grateful of
+this body's features. Moving this way made no noise. Unfortunately, I had left
+the door open. It was just too tedious to activate every time I wanted to leave
+or enter the room. I definitely regretted my laziness now. It did not exactly
+have a lock, but each opening required the user to confirm they had made sure
+no experiment was in progress. Closing it now would not prevent the intruders
+from getting in, and they would definitely hear that.
+
+Not knowing what else to do, I waited. They were go from one room to the next,
+calling out "clear!" every time.
+
+I wished there were better places to hide. Behind the workbench, perhaps? But
+my body did not have the strength to move it. No other options that I could see.
+The room was too sparsely furnished. Perhaps I could try to-
+
+Beeeeeeep! Beeeeeeep! Beeeeeeep!
+
+What?!
+
+The alarm came from one of the tool still connected to the four segment arm. A
+safety of some kind? B-but why now?
+
+I heard the footstep resonating with more certainty, making their way straight
+to E-408. The room I was in. No one entered, but I could see their shadows
+looming across the open doorway.
+
+Beeeeeeep! Beeeeeeep! Beeeeeeep!
+
+"Don't move!" a masculine voice warned.
+
+That was what I should have done, really. Just set myself *on* the medical bed
+and pretended to be a dead body, or just an unpowered animatronic.
+
+There was a moment of silence, then three people entered the room at once.
+Without stopping, they set off in different directions, covering all angles with
+their weapons. The first thing that struck me about their appearance was that
+they had only four limbs. *Foreigners*. Definitely not supposed to be in the
+building, let alone this floor. An army of some kind? They did wear some light
+body armor, but that protected only their torso. Too little equipment for an
+invasion. They all had backpacks. Maybe the rest of the armor was in there? Their
+face was fully exposed. They were not of a species I was familiar with. Such
+large eyes! Light shone on them like they were domes. Unlike Master's uniformly
+long fur, theirs was sparse enough to show some skin on the face, yet covered
+the rest. Well, except for their thin round ears. How peculiar. Also, looking
+at how they held their weapons, these fingers were remarkably long, and even had
+a tiny circle at their tip. Now if I had *those*, I was sure I would not
+struggle so much when using Master's tools.
+
+Hoping they would not pay any attention to me, I had still not moved at all,
+even as one of them went beyond my field of view.
+
+It seemed they finally had perused the room to their satisfaction. They lowered
+their weapons, and the one behind me spoke out.
+
+"Child ???. Doesn't belong. Our target?"
+
+I identified the voice as feminine.
+
+Beeeeeeep! Beeeeeeep! Beeeeeeep!
+
+"Yeah, looks promising," the one closest to the door said. It had to be the man
+who spoke earlier. "It's not moving. Fuck, it's not even *breathing*."
+
+Oh. Right. I was supposed to pretend to do that. I started activating the
+appropriate motors in a slow and continuous rhythm, contracting and expending
+my body. What a waste of energy...
+
+"Woah, that's creepy! Okay, well, that's *definitely* our target," he commented
+before aiming at me with his gun. "??? ? Can you run the jammer?"
+
+The last one took out a little cylinder and twisted one half. The top lit up
+and... nothing happened.
+
+"So," the man aiming at me continue, "are you in there?"
+
+What kind of question was that?
+
+Beeeeeeep! Beeeeeeep! Beeeeeeep!
+
+I stayed quiet.
+
+"Okay, let's do it this way, then. I'll shoot if you don't answer."
+
+"I don't understand the question," I told him.
+
+"Well, is your brain in that body?" He looked at his companions. "Alright,
+nevermind, I guess I got my answer. Whatever. Now, for the tricky part. We're
+getting you out of here. Are you going to make things difficult for us?"
+
+Oh, perhaps they were supposed to escort me to the even Master wanted me to
+attend. I knew it was hosted in a different solar system, so it would not be too
+surprising for foreigners to attend. But why would they be on our planet? No, I
+had to make sure.
+
+"Who are you? Did Master send you?"
+
+The one holding a jamming deviced reacted first. "'Master'? What kind of sick
+bastard likes to be called *that*?"
+
+Beeeeeeep! Beeeeeeep! Beeeeeeep!
+
+I took that as a "no". That was a considerable problem. Where was Master? He had
+told me to stay on this floor. I was not supposed to be seen, either. Well, I
+might have already failed the latter, but maybe I could still manage the former.
+
+"I am not leaving without Master's permission."
+
+The man near the door spoke again. "???, think you can extract the brain
+without damaging it?"
+
+"Maybe," the jammer wielding alien replied. "I'd need to open it up to see,
+first."
+
+Oh. That would be *bad*.
+
+"I will not survive if you remove me from this body," I lied.
+
+"Damn," the order-giving man said. "That's going to make things a lot more
+complicated than expected."
+
+Beeeeeeep! Beeeeeeep! Beeeeeeep!
+
+"???, do you mind if I shut this down? It's getting annoying."
+
+"Alright, whatever, go ahead."
+
+??? went to the benchmark and disconnected everything.
+
+"Alright, now we'll just need to find this 'Master' and -"
+
+An alarm sound blared, followed by an emergency broadcast. "Facility under
+assault. Take refuge. This is not a drill."
+
+"Fuck," ??? swore. "They got here fast. That's going to be rough."
